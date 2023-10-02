@@ -7,3 +7,6 @@ just test
 51110
 2350+51
 516166
+kmhlg,hlg,f
+gn,;.n;f.
+gn/
